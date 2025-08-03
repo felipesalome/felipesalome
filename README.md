@@ -6,7 +6,7 @@ Sou desenvolvedor de software com foco em soluções diretas, limpas e que geram
 
 ### ⚙️ *Stack atual*
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript\&logoColor=black)
 
@@ -26,9 +26,9 @@ Sou desenvolvedor de software com foco em soluções diretas, limpas e que geram
 
 ### 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalome\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalome\&layout=compact\&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesalome\&show_icons=true\&hide=contribs\&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesalome\&show_icons=true\&hide=contribs\&count_private=true\&theme=dracula)
 
 ---
 
