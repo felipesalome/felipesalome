@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Felipe
 
-<!--
-**felipesalome/felipesalome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de software com foco em soluções diretas, limpas e que geram valor sem enrolação. Gosto de entender o *porquê* por trás das coisas, aplicar boas práticas mesmo em sistemas legados e estou sempre buscando melhorar minha rotina com automações e ferramentas próprias. 
 
-Here are some ideas to get you started:
+### ⚙️ Linguagens que trabalho atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+
+### 📊 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalome&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesalome&show_icons=true&hide=contribs&count_private=true)
